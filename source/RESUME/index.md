@@ -21,7 +21,7 @@ __<div style="float:left;">SolidWorks AR Software Developer Intern | Unity  & 
 
 ## PATENT
 
-__<div style="float:left;">“Systems and Methods for Mating Virtual Objects to Real World Environments”. Patent Pending</div> <div style="float:right;">FEB 2019</div></br>__
+__<div style="float:left;">Systems and Methods for Mating Virtual Objects to Real World Environments. Patent Pending</div> <div style="float:right;">FEB 2019</div></br>__
 
 - Work closely with UX designer to brain-storming new interactions and tools to overcome the difficulty of  selecting and placing objects precisely in AR environment
 
@@ -35,7 +35,7 @@ __<div style="float:left;">BOSTON UNIVERSITY</div> <div style="float:right;">SEP
 
 __<div style="float:left;">PURDUE UNIVERSITY</div> <div style="float:right;">AUG 2012-MAY 2016</div></br>__
 
-- Bachelor of Science in Electrical Engineering (Dean’s list student and TA experience)
+- Bachelor of Science in Electrical Engineering (Dean\'s list student and TA experience)
 
 ## AWARDS
 
@@ -47,13 +47,13 @@ __<div style="float:left;">Your Ads | Unity & Vuforia & HoloLens</div> <div styl
 
 __<div style="float:left;">InkFinity | Unity & HTC Vive</div> <div style="float:right;">NOV 2016</div></br>__
 
-- MIT Media Lab Hacking Arts Hackathon Hackers’ Choice Award
+- MIT Media Lab Hacking Arts Hackathon Hackers\' Choice Award
 
 - InkFinity VR app takes users on a poetic journey inside ink paintings to experience the cultural ethos
 
 ## RESEARCH EXPERIENCE
 
-__<div style="float:left;">MIT Media Lab's Fluid Interface Group Virtual Reality research | Unity & MUSE</div> <div style="float:right;">MAY-SEP 2016</div></br>__
+__<div style="float:left;">MIT Media Lab Fluid Interface Group Virtual Reality research | Unity & MUSE</div> <div style="float:right;">MAY-SEP 2016</div></br>__
 
 - Design and develop Mobile PsychicVR Android app with MUSE brain sensing headband: users get the object control power using brain sensing in VR
 
