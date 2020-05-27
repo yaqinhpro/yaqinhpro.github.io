@@ -59,3 +59,5 @@ __<div style="float:left;">MIT Media Lab Fluid Interface Group Virtual Reality r
 - Design and develop Mobile PsychicVR Android app with MUSE brain sensing headband: users get the object control power using brain sensing in VR
 
 - Design and implement multiplayer mode in MPVR app using Photon Unity Network: players could do voice chat and see each other in spirit mode, reflecting real-time brain activities in VR
+
+[Resume PDF Version](/documents/Resume-YaqinHuang.pdf)
