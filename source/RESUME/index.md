@@ -9,15 +9,16 @@ date: 2020-05-16 17:57:54
 
 __<div style="float:left;">SolidWorks eDrawings R&D Dev Engineer | Unity  & C++ & HoloLens</div> <div style="float:right;">MMAR 2018-MAR 2020</div></br>__     
 
-- Use Unity Engine, MRTKV2 and GLTF Importer to develop the HoloLens 2 Augmented Reality CAD Model viewer app that allows user to load multiple GLTF models, mate models to physical environment and move/rotate/scale models</br>
+- Use Unity, MRTKV2 and GLTF Importer to develop the HoloLens 2 Augmented Reality CAD Model viewer app that allows user to load multiple GLTF models, mate models to physical environment and move/rotate/scale models
 
 - Use eDrawings  C++ OpenGL based Render System to develop the HoloLens 1 CAD Model viewer streaming solution that is streamed from eDrawings Desktop so user could load extremely large model
 
-- Use C++ OpenGL based Render System to implement Section View features in eDrawings Desktop: user could move the section plane along local axes and change the direction of section plane with informative plane and border color change 
+- Use C++ OpenGL based Render System to implement Section View in eDrawings Desktop: user could move Section Plane along local axes and change direction of Section Plane with informative plane and border color change
+ 
 
 __<div style="float:left;">SolidWorks AR Software Developer Intern | Unity  & HoloLens</div> <div style="float:right;">MMAY 2017-JAN 2018</div></br>__
 
-- Demoed in Solidworks World 2018 Conference, Use Unity Engine, MRTKV1, Dropbox API and Spectator View toolkit to develop the Proof-Of-Concept HoloLens 1 AR CAD Model viewer app that allows user to load multiple GLTF models from local storage or Doprbox cloud, mate models to physical environment and move/rotate/scale models and provide third-person angle with DSLR camera
+- Demoed in Solidworks World 2018 Conference, Use Unity, MRTKV1, Dropbox API and Spectator View toolkit to develop the Proof-Of-Concept HoloLens 1 AR CAD Model viewer app that allows user to load multiple GLTF models from local storage or Doprbox cloud, mate models to physical environment and move/rotate/scale models and provide third-person angle with DSLR camera
 
 ## PATENT
 
