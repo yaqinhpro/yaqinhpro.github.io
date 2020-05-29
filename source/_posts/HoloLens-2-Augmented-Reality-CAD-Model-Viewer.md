@@ -4,6 +4,10 @@ date: 2020-05-29 12:30:46
 tags:
 ---
 
+**Time: Jul 2019 - FEB 2020**
+**Location: Dassault Systemes Solidworks Boston Campus eDrawings team**
+**Role: Main developer**
+
 As the update version of HoloLens 1, HoloLens 2 has great improvements including better processing power, larger field of view, more detailed hand tracking ability, better comfortability, eye-tracking ability, etc.  We partner with Microsoft to develop our CAD Model viewer app on the latest Mixed Reality platform to enhance our app by integrating unique HoloLens 2 features into our app.   
 
 <img src="/images/HoloLens2.jpg" width="50%" height="50%" title="Hololens2" alt="Hololens2"></img>
