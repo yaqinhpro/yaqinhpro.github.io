@@ -21,4 +21,3 @@ Due to Microsoft policy, we could not expose any photo or video of the actual Ho
 <div align="center">
 <img src="https://s1.ax1x.com/2020/06/19/NuTgbT.png" width="212px" height="40px"> <img src="https://s1.ax1x.com/2020/06/19/NuTRVU.png" width="125px" height="36px">    
 </div>
-

@@ -10,6 +10,8 @@ tags:
 
 One most significant limitation of mobile devices including HoloLens is that the processing performance of the mobile devices is far behind the desktop devices.  That's where the idea of HoloLens streaming solution comes from. What if we could use the desktop device rendering power and also enjoy interacting with the AR devices? So we develope the streaming solution
 
+<iframe src="//player.bilibili.com/player.html?aid=796012437&bvid=BV1iC4y1a7nw&cid=202549466&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" title="HoloLens 1 Augmented Reality CAD Model Viewer Demo Video"> </iframe>
+
 ## Load Model
 User could open a Solidworks file just like eDrawings VR. Then user needs to run the Holographic Remoting Player app on Hololens and make sure the desktop and HoloLens are under same network. Click the AR button on eDrawings UI and enter the IP address of HoloLens, After the successful connection, user could see the streamed model from the desktop.
 
@@ -31,4 +33,6 @@ In this mode, user could use the airtap and hold gesture to move the model.
 ## Reset
 The Reset feature resets the active model into the initial state.
 
-​
+<div align="center">
+<img src="https://s1.ax1x.com/2020/06/19/NuTgbT.png" width="212px" height="40px"> <img src="https://s1.ax1x.com/2020/06/19/NuTRVU.png" width="125px" height="36px">    
+</div>
