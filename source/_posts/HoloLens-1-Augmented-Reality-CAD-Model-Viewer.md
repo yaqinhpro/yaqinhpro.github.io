@@ -12,6 +12,8 @@ In 2016, Microsoft released the first generation of HoloLens, HoloLens 1. Compar
 
 In this project, I work very closely with our Product Manager, Project Manager, Product Definition Engineer, User Experience Designer, and Quality Assurance Engineer in a team with Agile methodology to create this app.
 
+<iframe src="//player.bilibili.com/player.html?aid=625883940&bvid=BV1Kt4y1y7cB&cid=198331202&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" title="HoloLens 1 Augmented Reality CAD Model Viewer Demo Video"> </iframe>
+
 ## LoadFile UI
 Open the app, the first thing that shows up is the LoadFileMenu (in Follow Me mode). The app displays model buttons if this app is used before. If no sync is performed before, the menu is empty. The user could click the model button to load models. The LoadFileMenu could display at most 6 buttons on a page. If there is more than one page, Next page button and Prev page button shows up on the UI. Local/3DDrive button is to switch between syncing model files from HoloLens Local storage or 3DDrive cloud storage. The Prev/Next button is for going to the previous page or next page. The Settings button is used for launching the Settings menu. The Sync button is used for opening the Sync menu.
 
@@ -50,3 +52,7 @@ The Clear feature deletes the active model from the scene.
 
 ## Multiple Models
 This app also supports handling multiple models. User could load and apply any feature into any model. 
+
+<div align="center">
+<img src="https://s1.ax1x.com/2020/06/19/NuTgbT.png" width="212px" height="40px"> <img src="https://s1.ax1x.com/2020/06/19/NuTRVU.png" width="125px" height="36px">    
+</div>

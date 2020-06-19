@@ -18,3 +18,7 @@ Due to Microsoft policy, we could not expose any photo or video of the actual Ho
 
 <iframe src="//player.bilibili.com/player.html?aid=44800875&bvid=BV1ub411h71P&cid=78431085&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" title="HoloLens 2 Live Demo Video"> </iframe>
 
+<div align="center">
+<img src="https://s1.ax1x.com/2020/06/19/NuTgbT.png" width="212px" height="40px"> <img src="https://s1.ax1x.com/2020/06/19/NuTRVU.png" width="125px" height="36px">    
+</div>
+
