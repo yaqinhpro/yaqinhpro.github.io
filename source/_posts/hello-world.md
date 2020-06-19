@@ -36,3 +36,5 @@ $ hexo deploy
 ```
 
 More info: [Deployment](https://hexo.io/docs/one-command-deployment.html)
+
+<img src="https://wx2.sbimg.cn/2020/06/16/163325_150269795121454_1574289637_n.jpg" width="50%" height="50%" title="Hololens2" alt="Hololens2"></img>
