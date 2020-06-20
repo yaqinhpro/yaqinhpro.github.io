@@ -23,3 +23,9 @@ The project is a VR-based cinema. Multi-users could use our project to watch the
 The most important thing for us is the valuable experience. After the VR hackathon, every one of us in the team knows how to build a VR project.
 
 In the future, we plan to extend our project not only to the cinema, but also any situation that could use live stream like drama or concert. We hope we could connect people by sharing fun experience.
+
+<iframe src="//player.bilibili.com/player.html?aid=711029299&bvid=BV12D4y1D7mj&cid=203946630&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" title=" RealityVirtually Hackathon 2016 microCinema Demo Video"> </iframe> 
+
+<div align="center">
+<img src="https://s1.ax1x.com/2020/06/19/NKxBVA.jpg" height="120px">   
+</div>
