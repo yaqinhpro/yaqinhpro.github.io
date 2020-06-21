@@ -1,6 +1,6 @@
 ---
 title: HoloLens 1 Augmented Reality Streaming Solution
-date: 2020-05-30 16:16:50
+date: 2019-07-15 16:16:50
 tags:
 ---
 

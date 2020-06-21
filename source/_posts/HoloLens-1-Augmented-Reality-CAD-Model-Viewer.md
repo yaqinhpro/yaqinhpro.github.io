@@ -1,6 +1,6 @@
 ---
 title: HoloLens 1 Augmented Reality CAD Model Viewer
-date: 2020-05-29 21:55:40
+date: 2018-12-15 21:55:40
 tags:
 ---
 
