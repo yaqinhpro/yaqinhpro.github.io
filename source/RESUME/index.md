@@ -11,14 +11,14 @@ __<div style="float:left;">SolidWorks eDrawings R&D Dev Engineer | Unity  & C+
 
 - Use Unity, MRTKV2 and GLTF Importer to develop the HoloLens 2 Augmented Reality CAD Model viewer app that allows user to load multiple GLTF models, mate models to physical environment and move/rotate/scale models
 
-- Use eDrawings  C++ OpenGL based Render System to develop the HoloLens 1 CAD Model viewer streaming solution that is streamed from eDrawings Desktop so user could load extremely large model
+- Use eDrawings  C++ OpenGL based Render System to develop the HoloLens 1 CAD Model viewer streaming solution that is streamed from eDrawings Desktop so user could load massive industry model
 
-- Use C++ OpenGL based Render System to implement Section View in eDrawings Desktop: user could move Section Plane along local axes and change direction of Section Plane with informative plane and border color change
+- Use C++ OpenGL based Render System to implement Section View in eDrawings Desktop: user could move Section Plane along local axes with mouse, hide/show Section Plane and change direction of Section Plane
  
 
 __<div style="float:left;">SolidWorks AR Software Developer Intern | Unity  & HoloLens</div> <div style="float:right;">MMAY 2017-JAN 2018</div></br>__
 
-- Demoed in Solidworks World 2018 Conference, Use Unity, MRTKV1, Dropbox API and Spectator View toolkit to develop the Proof-Of-Concept HoloLens 1 AR CAD Model viewer app that allows user to load multiple GLTF models from local storage or Doprbox cloud, mate models to physical environment and move/rotate/scale models and provide third-person angle with DSLR camera
+- Demoed in Solidworks World 2018 Conference, Use Unity, MRTKV1, Dropbox API and Spectator View toolkit to develop the Proof-Of-Concept HoloLens 1 AR CAD Model viewer app that allows user to load multiple GLTF models from local storage or Dropbox cloud storage, mate models to physical environment, move/rotate/scale models and provide third-person view with external DSLR camera
 
 ## PATENT
 
@@ -26,7 +26,7 @@ __<div style="float:left;">Systems and Methods for Mating Virtual Objects to Rea
 
 - Work closely with UX designer to brain-storming new interactions and tools to overcome the difficulty of  selecting and placing objects precisely in AR environment
 
-- Use Unity Engine and MRTKV1 to develop the selecting and mating tools so user could archive the same workflow with minimum cost
+- Use Unity Engine and MRTKV1 to develop the selecting and mating interaction tools so user could archive the same workflow with minimum cost
 
 ## EDUCATION
 
