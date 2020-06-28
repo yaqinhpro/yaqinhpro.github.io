@@ -11,9 +11,9 @@ ShenZhen &nbsp; | &nbsp; yaqinhro@outlook.com &nbsp; | &nbsp; 156-2289-3786
 
 __<div style="float:left;">SolidWorks eDrawings R&D Dev Engineer | Unity & C++ & HoloLens</div> <div style="float:right;">MAR 2018-MAR 2020</div></br>__     
 
-- Use Unity, MRTKV2 and GLTF Importer to develop the HoloLens 2 Augmented Reality CAD Model viewer app that allows user to load multiple GLTF models, precisely mate models to physical environment and move/rotate/scale models
+- Use Unity, MRTKV2 and GLTF Importer to develop HoloLens 2 Augmented Reality CAD Model viewer app that allows user to load multiple GLTF models, precisely mate models to physical environment and move/rotate/scale models
 
-- Use eDrawings C++ OpenGL based Render System to develop the HoloLens 1 CAD Model viewer streaming solution that is streamed from eDrawings Desktop so user could load massive industry model
+- Use eDrawings C++ OpenGL based Render System to develop HoloLens 1 CAD Model viewer streaming solution that is streamed from eDrawings Desktop so user could load massive industry model
 
 - Use eDrawings C++ OpenGL based Render System to implement Section View in eDrawings Desktop: user could drag Section Plane along local axes using mouse, hide/show Section Plane and change direction of Section Plane
 
@@ -47,7 +47,7 @@ __<div style="float:left;">Your Ads | Unity & Vuforia & HoloLens 1</div> <div st
 
 - __Discover Virtual 2 Reality Challenge Second Prize, Invited to PYMNTS.com Innovation Project Conference__
 
-- Use Unity, MRTKV1 and Vuforia SDK to build a prototype app that introduce the concept of future advertisements: everyone could enjoy customized 3D interactive ads based on the result of Machine Learning algorithm from personal purchase history
+- Use Unity, MRTKV1 and Vuforia SDK to build a prototype app that introduces the concept of future advertisements: everyone could enjoy customized 3D interactive ads based on the result of Machine Learning algorithm from personal purchase history
 
 __<div style="float:left;">InkFinity | Unity & HTC Vive</div> <div style="float:right;">NOV 2016</div></br>__
 
@@ -59,10 +59,10 @@ __<div style="float:left;">InkFinity | Unity & HTC Vive</div> <div style="float:
 
 __<div style="float:left;">MIT Media Lab Fluid Interface Group Virtual Reality research | Unity & MUSE</div> <div style="float:right;">MAY-SEP 2016</div></br>__
 
-- Work closely with research instructor to develop Mobile PsychicVR Android app with MUSE brain sensing headband to enhance focusing: users get the object control superpower using brain sensing in single-player mode
+- Work closely with research instructor to develop Mobile PsychicVR Android app with MUSE brain-sensing headband to enhance focusing: users get the object control superpower using brain sensing in single-player mode
 
 - Work closely with research instructor to develop multiplayer mode in MPVR app with Photon Unity Networking: user could visualize real-time brain activities in spirit mode and communicate in voice chat
 
 [Download Resume PDF Version](/documents/Resume-YaqinHuang.pdf)
 
-[下载简历PDF版本](/documents/简历-黄亚钦.pdf)
+[下载简历PDF版本](/documents/个人简历-黄亚钦.pdf)
