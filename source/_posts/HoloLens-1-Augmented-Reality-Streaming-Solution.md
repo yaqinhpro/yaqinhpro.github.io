@@ -12,6 +12,8 @@ One most significant limitation of mobile devices including HoloLens is that the
 
 <iframe src="//player.bilibili.com/player.html?aid=796012437&bvid=BV1iC4y1a7nw&cid=202549466&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" title="HoloLens 1 Augmented Reality CAD Model Viewer Demo Video"> </iframe>
 
+A brief introduction for most of our components in our app:
+
 ## Load Model
 User could open a Solidworks file just like eDrawings VR. Then user needs to run the Holographic Remoting Player app on Hololens and make sure the desktop and HoloLens are under same network. Click the AR button on eDrawings UI and enter the IP address of HoloLens, After the successful connection, user could see the streamed model from the desktop.
 

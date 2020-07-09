@@ -6,11 +6,13 @@ tags:
 
 **Time: Jul 2019 - FEB 2020**
 **Location: Dassault Systemes Solidworks Boston Campus eDrawings team**
-**Role: Main developer**
+**Role: Main Developer**
 
-As the update version of HoloLens 1, HoloLens 2 has great improvements including better processing power, larger field of view, more detailed hand tracking ability, better comfortability, eye-tracking ability, etc.  We partner with Microsoft to develop our CAD Model viewer app on the latest Mixed Reality platform to enhance our app by integrating unique HoloLens 2 features into our app.   
+More like the redesign of HoloLens 1, HoloLens 2 has many great improvements including better processing power, larger field of view, more detailed hand tracking ability, better comfortability, and eye-tracking ability, etc. We partner with Microsoft to develop our CAD Model viewer app on the latest Mixed Reality platform to enhance our app by integrating unique HoloLens 2 features into our app.   
 
 <img src="https://s1.ax1x.com/2020/06/19/Nuohct.jpg" width="50%" height="50%" title="Hololens2" alt="Hololens2"></img>
+
+In this project, I work very closely with our Product Manager, Project Manager, Product Definition Engineer, User Experience Designer, and Quality Assurance Engineer in a team with Agile methodology to create this app.
 
 We mainly use the Unity 3D engine, Unity assets, and the MRTKV2 to build our app. Similar to our HoloLens 1 app, our HoloLens2 app could load model(s), reset, drag, rotate, scale and mate model. We integrate all the new HoloLens 2 and MRTKV2 features into our app so our app is more intuitive and easier to use with new hand gestures, better software and hardware performance of HoloLens 2 and updated Unity assets.
 
