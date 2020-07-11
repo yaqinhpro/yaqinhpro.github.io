@@ -11,7 +11,7 @@ ShenZhen &nbsp; | &nbsp; yaqinhro@outlook.com &nbsp; | &nbsp; 156-2289-3786
 
 __<div style="float:left;">SolidWorks eDrawings R&D Dev Engineer | Unity & C++ & HoloLens</div> <div style="float:right;">MAR 2018-MAR 2020</div></br>__     
 
-- Use Unity, MRTKV2 and GLTF Importer to develop HoloLens 2 Augmented Reality CAD Model viewer app that allows user to load multiple GLTF models, precisely mate models to physical environment and move/rotate/scale models
+- Work closely with teammates under Agile Scrum Methodology, and use Unity, MRTKV2 and GLTF Importer to develop HoloLens 2 Augmented Reality CAD Model viewer app that allows user to load multiple GLTF models, precisely mate models to physical environment and move/rotate/scale models
 
 - Use eDrawings C++ OpenGL based Render System to develop HoloLens 1 CAD Model viewer streaming solution that is streamed from eDrawings Desktop so user could load massive industry model
 
