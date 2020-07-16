@@ -64,5 +64,3 @@ __<div style="float:left;">MIT Media Lab Fluid Interface Group Virtual Reality r
 - Work closely with research instructor to develop multiplayer mode in MPVR app with Photon Unity Networking: user could visualize real-time brain activities in spirit mode and communicate in voice chat
 
 [Download Resume PDF Version](/documents/Resume-YaqinHuang.pdf)
-
-[下载简历PDF版本](/documents/个人简历-黄亚钦.pdf)
