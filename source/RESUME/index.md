@@ -5,7 +5,7 @@ date: 2020-05-16 17:57:54
 
 <font size=14>__Yaqin Huang__ </font> 
 
-ShenZhen &nbsp; | &nbsp; yaqinhro@outlook.com &nbsp; | &nbsp; 156-2289-3786
+ShenZhen&nbsp;|&nbsp;yaqinhro@outlook.com &nbsp;|&nbsp;156-2289-3786
 
 ## WORK EXPERIENCE
 
