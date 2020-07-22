@@ -4,7 +4,7 @@ date: 2016-09-15 17:44:50
 tags:
 ---
 
-**Time: Sep 2016 - April 2017**
+**Time: May 2016 - Sep 2016**
 **Advisor: PhD. Judith Amores and Prof.Pattie**
 **Location: MIT Media Lab Fluid Interface Group**
 **Type: Individual Research**

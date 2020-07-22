@@ -4,7 +4,7 @@ date: 2019-07-15 16:16:50
 tags:
 ---
 
-**Time: Dec 2018 - JUL 2019**
+**Time: Dec 2018 - Jul 2019**
 **Location: Dassault Systemes Solidworks Boston Campus eDrawings team**
 **Role: Developer**
 
