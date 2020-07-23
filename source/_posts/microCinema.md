@@ -5,9 +5,8 @@ tags:
 ---
 
 **Time: 8 Oct 2016 - 10 Oct 2016**
-**Type: MIT Media Lab Virtually Reality Hackathon Project**
 **Location: MIT Media Lab**
-**Prize: Up and Coming Prize top 3 project**
+**Prize: MIT Media Lab Virtually Reality Hackathon Up and Coming Prize top 3 project**
 **Role: Google VR developer**
 
 Sometimes it is very difficult for us to get together watching a movie, or take part in an activity because we are so busy or maybe in two different regions far away. But when we have some free time, we want to be with our friends or family.

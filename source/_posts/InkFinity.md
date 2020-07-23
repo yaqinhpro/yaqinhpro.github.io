@@ -5,9 +5,8 @@ tags:
 ---
 
 **Time: 19 Nov 2016 - 20 Nov 2016**
-**Type: MIT Media Lab Hacking Arts Hackathon Project**
 **Location: MIT Media Lab**
-**Prize: Hackers\' Choice Award**
+**Prize: MIT Media Lab Hacking Arts Hackathon Hackers\' Choice Award**
 **Role: HTC Vive developer**
 
 <img src="https://s1.ax1x.com/2020/06/20/Nlyu6S.jpg" width="700px"></img>
