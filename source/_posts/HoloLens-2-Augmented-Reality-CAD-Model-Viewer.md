@@ -8,7 +8,7 @@ tags:
 **Location: Dassault Systemes Solidworks Boston Campus eDrawings team**
 **Role: Main Developer**
 
-More like the redesign of HoloLens 1, HoloLens 2 has many great improvements including better processing power, larger field of view, more detailed hand tracking ability, better comfortability, and eye-tracking ability, etc. We partner with Microsoft to develop our CAD Model viewer app on the latest Mixed Reality platform to enhance our app by integrating unique HoloLens 2 features into our app.   
+More like the redesign of HoloLens 1, HoloLens 2 has many great improvements including better processing power, larger field of view, more detailed hand tracking ability, better comfortability, and eye-tracking ability, etc. Since we already have HoloLens1 development experience and want to continue further along this path, we started to partner with Microsoft to develop our CAD Model viewer app on the latest Mixed Reality platform to enhance our app by integrating unique HoloLens 2 features into our app.   
 
 <img src="https://s1.ax1x.com/2020/06/19/Nuohct.jpg" width="50%" height="50%" title="Hololens2" alt="Hololens2"></img>
 
